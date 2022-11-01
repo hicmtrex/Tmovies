@@ -10,17 +10,19 @@ import Footer from './components/footer/Footer';
 import Routes from './config/Routes';
 
 function App() {
-    return (
-        <BrowserRouter>
-            <Route render={props => (
-                <>
-                    <Header {...props}/>
-                    <Routes/>
-                    <Footer/>
-                </>
-            )}/>
-        </BrowserRouter>
-    );
+  return (
+    <BrowserRouter>
+      <Route
+        render={(props) => (
+          <>
+            <Header {...props} />
+            <Routes />
+            <Footer />
+          </>
+        )}
+      />
+    </BrowserRouter>
+  );
 }
 
 export default App;
