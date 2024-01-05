@@ -2,7 +2,7 @@ repo_name: hicmtrex/Tmovies
 report_id: eb7979a9c0f87a92ad7ec4d14b29829e
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-21T15:36:17+00:00'
+timestamp: '2024-01-05T08:17:24+00:00'
 requested_by: invalid-email-address
 provider: github
 branch: main
@@ -16,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/hicmtrex/Tmovies
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -26,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/hicmtrex/Tmovies
   detection_source: Repo Metadata
 - name: React
   description: A JavaScript library for building user interfaces
@@ -64,6 +66,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/1171/jCR2zNJV.png
+  detection_source_url: https://github.com/hicmtrex/Tmovies/blob/main/package.json
   detection_source: package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-01-29 02:43:08.000000000 Z
@@ -75,6 +78,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/hicmtrex/Tmovies
   detection_source: Repo Metadata
 - name: npm
   description: The package manager for JavaScript.
@@ -84,6 +88,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/hicmtrex/Tmovies/blob/main/package.json
   detection_source: package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-01-29 02:43:08.000000000 Z
@@ -95,6 +100,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/hicmtrex/Tmovies/blob/main/public/robots.txt
   detection_source: public/robots.txt
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-01-29 02:43:08.000000000 Z
